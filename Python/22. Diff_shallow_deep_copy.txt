@@ -1,0 +1,8 @@
+22. Question: What is the difference between shallow copy and deep copy?
+
+Shallow copy: 
+It creates a new object, but does not create copies of objects that the original object references. 
+Instead, it copies references.
+
+Deep copy: 
+It creates a new object and also recursively creates copies of objects found in the original.

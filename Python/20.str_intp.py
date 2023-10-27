@@ -1,7 +1,6 @@
 # 20. Question: How is string interpolation done in Python?
 
-"""
-Answer: There are several ways:
+""" 
 Using % formatting.
 Using .format() method.
 Using f-strings (from Python 3.6+)."""
